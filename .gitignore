@@ -1,0 +1,7 @@
+*.pem
+package-lock.json
+data/
+others/
+output/
+traininig_data/
+node_modules/
